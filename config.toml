@@ -1,0 +1,15 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "en-usss"
+title = "My New Hugo Site, yay"
+disqusShortname = "binarylogicben"
+Title = "fdsf"
+
+[params]
+Title = "Binary Logic"
+Tagline = "Ben Johnson's personal engineering blog"
+Author = "Ben Johnson"
+Theme = "theme-binarylogic"
+tagline = "Awesome tools and screencasts for Go programmers."
+highlight = "github"
+github = "github.com/codegangsta"
+DateForm = "Monday, Jan 2, 2006"
