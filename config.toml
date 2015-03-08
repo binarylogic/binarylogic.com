@@ -1,8 +1,6 @@
-baseurl = "http://yourSiteHere/"
-languageCode = "en-usss"
-title = "My New Hugo Site, yay"
+baseurl = "http://binarylogic.github.io/"
+languageCode = "en-us"
 disqusShortname = "binarylogicben"
-Title = "fdsf"
 
 [params]
 Title = "Binary Logic"
@@ -11,5 +9,5 @@ Author = "Ben Johnson"
 Theme = "theme-binarylogic"
 tagline = "Awesome tools and screencasts for Go programmers."
 highlight = "github"
-github = "github.com/codegangsta"
+github = "github.com/binarylogic"
 DateForm = "Monday, Jan 2, 2006"
