@@ -1,13 +1,7 @@
 +++
 date = "2015-03-07T13:40:43-05:00"
-title = "This is my first post"
+title = "Setting up my new blog, stay tuned"
+categories = ["announcement"]
 +++
 
-This is a test post
-
-<!--more-->
-
-fdskjhfdl sfhdjs klfhdjs khfdjk 
-
-
-fdjksfhdjls kfhds fjhsd ljskdh
+Things will be setup shortly. I have some good announcement coming.
