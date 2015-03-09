@@ -1,0 +1,11 @@
+{{ partial "head.html" . }}
+
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+  <span class="post-date">fdsfds{{ .Render "details" }}</span>
+  {{ .Content }}
+</div>
+
+{{ template "_internal/disqus.html" . }}
+
+{{ partial "foot.html" . }}
