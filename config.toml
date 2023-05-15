@@ -1,0 +1,33 @@
+baseURL = 'https://binarylogic.com'
+languageCode = "en-us"
+title = "Binary Logic"
+
+[params]
+Name = "Ben Johnson"
+About = """
+I'm an engineer and founder living in New York City.
+
+Currently, I'm working on a new company that addresses the biggest challenge I faced during my 15+ years of building SaaS companies.
+
+In 2016, I co-founded [Timber](https://www.crunchbase.com/organization/timber), a logging SaaS, where we developed [Vector](https://github.com/vectordotdev/vector), a popular open-source project that is widely used by engineering teams at organizations like Apple, NASA, and Hashicorp. Vector was acquired by Datadog in 2020, where it's the backbone of Datadog’s Observability Pipelines product. Earlier, in 2007, I co-founded [Concierge Live](http://conciergelive.com), an enterprise SaaS that tracked the usage of corporate event tickets. While working on Concierge Live I created [Authlogic](https://github.com/binarylogic/authlogic) and [Searchlogic](https://github.com/binarylogic/searchlogic), which some may recall from the Ruby early days.
+
+Along with [Zach Sherman](https://zach.sh), my co-founder at Timber, I invest through [Whoa.vc](https://whoa.vc).
+
+Outside of work, I enjoy biking, running, swimming, and anything outdoors. Participating in triathlons is a hobby of mine.
+"""
+Email = "ben@binarylogic.com"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/binarylogic"
+
+[[params.profiles]]
+name = "Twitter"
+url = "https://twitter.com/binarylogic"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/binarylogicben/"
